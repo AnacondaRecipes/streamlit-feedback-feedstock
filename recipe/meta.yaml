@@ -21,7 +21,6 @@ requirements:
     - python
     - setuptools
     - wheel
-    - streamlit >=0.63
   run:
     - python
     - streamlit >=0.63
